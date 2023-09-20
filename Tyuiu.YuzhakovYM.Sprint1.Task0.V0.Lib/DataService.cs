@@ -13,7 +13,6 @@ namespace Tyuiu.YuzhakovYM.Sprint1.Task0.V1.Lib
         public double Calculate()
         {
             return 36 / 2 / 9 + 1 - 6 / 2 * 3;
-
         }
     }
 }
