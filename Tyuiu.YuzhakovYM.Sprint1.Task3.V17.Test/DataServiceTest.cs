@@ -12,9 +12,9 @@ namespace Tyuiu.YuzhakovYM.Sprint1.Task3.V17.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            double number = 2.133;
+            double x = 2.113;
             bool wait = false;
-            var res = ds.ZeroCheck(number);
+            var res = ds.ZeroCheck(x);
             Assert.AreEqual(wait, res);
         }
     }

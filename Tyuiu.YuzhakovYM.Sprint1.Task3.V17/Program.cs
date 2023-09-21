@@ -31,14 +31,15 @@ namespace Tyuiu.YuzhakovYM.Sprint1.Task3.V17
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            double number = 1.307;
-            Console.WriteLine("Число равно " + number);
+            double a = 3.321;
+            Console.WriteLine("Число равно " + a);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Ответ: " + ds.ZeroCheck(number));
+            Console.WriteLine(ds.ZeroCheck(a));
+            Console.ReadKey();
         }
     }
 }
