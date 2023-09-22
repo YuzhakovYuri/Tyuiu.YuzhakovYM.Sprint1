@@ -31,8 +31,9 @@ namespace Tyuiu.YuzhakovYM.Sprint1.Task3.V17
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            double a = 3.321;
-            Console.WriteLine("Число равно " + a);
+            double a;
+            Console.WriteLine("Введите число для программы: (Дробную часть через запятую!)");
+            a = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
