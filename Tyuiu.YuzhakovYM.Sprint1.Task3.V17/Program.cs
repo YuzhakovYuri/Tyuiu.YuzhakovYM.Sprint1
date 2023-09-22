@@ -18,7 +18,7 @@ namespace Tyuiu.YuzhakovYM.Sprint1.Task3.V17
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
             Console.WriteLine("* Выполнил: Южаков Юрий Михайлович | АСОиУб-23-3                          *");
