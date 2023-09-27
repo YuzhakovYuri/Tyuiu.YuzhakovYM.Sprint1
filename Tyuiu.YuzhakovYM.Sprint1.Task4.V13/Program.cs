@@ -26,7 +26,7 @@ namespace Tyuiu.YuzhakovYM.Sprint1.Task4.V13
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
             Console.WriteLine("* вычисляет результат по формуле и печатает его на экране. (С округлением *");
             Console.WriteLine("* до 3 знаков после запятой)                                              *");
-            Console.WriteLine("* Формула: (cos(pi/x))/(3*e^(x+y))                                         *");
+            Console.WriteLine("* Формула: (cos(pi/x))/(3*e^(x+y))                                        *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
